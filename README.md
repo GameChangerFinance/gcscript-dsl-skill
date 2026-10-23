@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/GameChangerFinance/gcscript-dsl-skill.svg)](https://hits.sh/github.com/GameChangerFinance/gcscript-dsl-skill/)
+
 # GCScript DSL skill
 
 Agent instructions for writing and validating GCScript/ISL, assembling multi-file projects, and integrating wallet URL/QR intents and returned results.
