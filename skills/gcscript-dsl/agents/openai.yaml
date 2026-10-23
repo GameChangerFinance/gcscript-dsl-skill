@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCScript DSL"
+  short_description: "Build and validate GameChanger wallet intents"
+  default_prompt: "Use $gcscript-dsl to build a GCScript DSL intent."
